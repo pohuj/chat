@@ -1,0 +1,8 @@
+# webstorm project files
+.idea
+
+# dependencies files
+node_modules
+
+# local dependencies version
+package-lock.json
